@@ -1,0 +1,4 @@
+# Created at 2020-11-28T20:45:29.777
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Users\Nag\eclipse-workspace\TestNgMavan\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14834" started-at="2020-11-28T15:15:33Z" finished-at="2020-11-28T15:15:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14834" started-at="2020-11-28T15:15:33Z" finished-at="2020-11-28T15:15:48Z">
+      <class name="com.loginpage.FBlogin">
+        <test-method status="PASS" signature="openweb()[pri:0, instance:com.loginpage.FBlogin@4d826d77]" name="openweb" is-config="true" duration-ms="11201" started-at="2020-11-28T15:15:33Z" finished-at="2020-11-28T15:15:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openweb -->
+        <test-method status="PASS" signature="userlogin()[pri:0, instance:com.loginpage.FBlogin@4d826d77]" name="userlogin" duration-ms="3439" started-at="2020-11-28T15:15:45Z" finished-at="2020-11-28T15:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.loginpage.FBlogin@4d826d77]" name="close" is-config="true" duration-ms="151" started-at="2020-11-28T15:15:48Z" finished-at="2020-11-28T15:15:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.loginpage.FBlogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
