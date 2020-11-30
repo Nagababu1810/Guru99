@@ -80,6 +80,9 @@ public class BaseTest {
 		report = ExtentManager.getInstance();
 
 	}
+	
+	
+	
 
 	public void launch(String browser) {
 
